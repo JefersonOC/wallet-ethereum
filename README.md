@@ -5,9 +5,14 @@ Jeferson Cruz
 ## Tecnologia
 Python
 ## Endpoints
-> [GET] http://127.0.0.1:5000/health
-> [GET] http://127.0.0.1:5000/balance?account=0x
-> [POST] http://127.0.0.1:5000/transfer
+> [GET] 
+http://127.0.0.1:5000/health
+
+> [GET] 
+http://127.0.0.1:5000/balance?account=0x
+
+> [POST] 
+http://127.0.0.1:5000/transfer
 ## Usage
 ```
 curl http://127.0.0.1:5000/health
